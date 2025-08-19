@@ -41,6 +41,3 @@ AI Agent is a toy project written in Python that demonstrates a very simple AI a
 
 ## Environment Variables
 See `env.example` for the required variables. You must provide your own Google GenAI API key.
-
-## License
-This project is for educational purposes only.
