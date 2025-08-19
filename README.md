@@ -28,9 +28,8 @@ AI Agent is a toy project written in Python that demonstrates a very simple AI a
 
 
 3. **Install dependencies:**
+   
    This project uses [uv](https://github.com/astral-sh/uv) for fast Python dependency management.
-
-   Install dependencies with:
    ```sh
    uv pip install -r pyproject.toml
    ```
@@ -42,8 +41,6 @@ AI Agent is a toy project written in Python that demonstrates a very simple AI a
 
 ## Environment Variables
 See `env.example` for the required variables. You must provide your own Google GenAI API key.
-
----
 
 ## License
 This project is for educational purposes only.
